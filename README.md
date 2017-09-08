@@ -1,3 +1,5 @@
+{% feed_meta %}
+
 # Software Privativo en las licitaciones de la administración pública en Bolivia
 
 Este sitio hace un seguimiento al Plan de Implementación de Software 
