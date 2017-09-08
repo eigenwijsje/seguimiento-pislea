@@ -1,0 +1,14 @@
+La Autoridad de Fiscalización y Control de Pensiones y Seguros (APS) ha
+publicado el 4 de septiembre la licitación CUCE 17-0313-00-768641-3-1,
+para contratar una consultoria bajo la modalidad ANPE, con objeto de
+"Migración de Sistemas: Desarrollo del Sistema de Ingreso de
+Información"
+
+El Documento Base de Contratación lista bajo las Herramients a utilizar
+en el desarrollo e implementación del Sistema:
+
+    El Desarrollo e Implementación se realizará utilizando herramientas
+    .NET para el desarrollo, MSSQL Server como DBMS y/o otras herramientas
+    que determinará la Dirección de Sistemas de la APS.
+
+**Esta licitación ha sido impuganda**.
