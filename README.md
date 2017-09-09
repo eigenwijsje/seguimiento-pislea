@@ -14,7 +14,6 @@ Los datos están basados en los sitios del [SICOES](https://www.sicoes.gob.bo/) 
 - 1 de septiembre, [17-1701-00-774423-1-1](17-1701-00-774423-1-1)
 - 31 de agosto, [17-1701-00-775393-1-1](17-1701-00-775393-1-1)
 
-{{site.posts}}
 <ul>
   {% for post in site.posts %}
     <li>
