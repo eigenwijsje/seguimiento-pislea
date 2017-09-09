@@ -1,9 +1,9 @@
 ---
-title: {{entidad}}
+title: GAMSC - 01/09/2017
 tags: [C#,Visual Studio 2015,SQL Server 2012]
 entidad: Gobierno Autónomo Municipal de Santa Cruz de La Sierra
 cuce: 17-1701-00-774423-1-1
-fecha: 2017-08-31
+fecha: 2017-09-01
 impugnado: no
 ---
 

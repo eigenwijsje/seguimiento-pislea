@@ -17,7 +17,7 @@ Los datos están basados en los sitios del [SICOES](https://www.sicoes.gob.bo/) 
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+      <a href="{{ post.url | absolute_url }}">{{ post.title }} ({{ post.tags}})</a>
 	{{ post.excerpt }}
     </li>
   {% endfor %}
