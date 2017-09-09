@@ -10,10 +10,6 @@ estatales para la administración pública que requieren software privativo.
 
 Los datos están basados en los sitios del [SICOES](https://www.sicoes.gob.bo/) e [INFOSICOES](http://www.sicoes.com.bo/).
 
-- 4 de septiembre, [17-0313-00-768641-3-1](17-0313-00-768641-3-1)
-- 1 de septiembre, [17-1701-00-774423-1-1](17-1701-00-774423-1-1)
-- 31 de agosto, [17-1701-00-775393-1-1](17-1701-00-775393-1-1)
-
 <ul>
   {% for post in site.posts %}
     <li>
