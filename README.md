@@ -2,7 +2,7 @@
 
 # Software Privativo en las licitaciones de la administración pública en Bolivia
 
-Este sitio hace un seguimiento al Plan de Implementación de Software 
+Este sitio hace un seguimiento al Plan de Implementación de Software
 Libre y Estándares Abiertos.
 
 Este es un listado de licitaciones publicadas en el sistema de contrataciones
@@ -18,6 +18,7 @@ Los datos están basados en los sitios del [SICOES](https://www.sicoes.gob.bo/) 
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+	{{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
