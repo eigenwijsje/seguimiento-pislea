@@ -17,8 +17,14 @@ Los datos están basados en los sitios del [SICOES](https://www.sicoes.gob.bo/) 
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url | absolute_url }}">{{ post.title }} ({{ post.tags}})</a>
-	{{ post.excerpt }}
+      <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+	     {{ post.excerpt }}
+       Tecnologías:
+       <ul>
+         {% for tag in post.tags %}
+         <li>{{ tag }}</li>
+         {% endfor %}
+       </ul>
     </li>
   {% endfor %}
 </ul>
