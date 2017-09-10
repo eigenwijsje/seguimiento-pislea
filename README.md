@@ -24,3 +24,7 @@ Los datos están basados en los sitios del [SICOES](https://www.sicoes.gob.bo/) 
     </li>
   {% endfor %}
 </ul>
+
+Realizado por la:
+### [COMUNUDAD DE SOFTWARE LIBRE BOLIVIA](https://www.softwarelibre.org.bo/)
+![CSLB](https://www.softwarelibre.org.bo/wp-content/uploads/2014/07/cropped-logo-comunidad-500x192borde.png)
